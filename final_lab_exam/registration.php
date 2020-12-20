@@ -14,7 +14,7 @@
             
             <legend><h1>Registration</h1></legend>
             
-            <form>
+            <form method="POST" action="regchk.php">
                 
                 Id <br>
                 <input type="text" name="id"><br>
